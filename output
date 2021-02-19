@@ -1,0 +1,8 @@
+Provide name:
+Brown
+Provide birthdate in format dd/mm/yyyy:
+09/08/1939
+First name in database that corresponds with input birthdate = Ms. Q. Brown
+During search based on birthdate a name match was found...
+Partial string ratio = 100
+Was Ms. Q. Brown with birthdate 09/08/1939 living on 86 Bankside Drive, Thames Ditton,KT7 0AH the person that you were looking for?
